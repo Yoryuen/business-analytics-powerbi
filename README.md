@@ -1,17 +1,24 @@
 # Business Analytics & Power BI
 
-This repository contains business analytics projects and Power BI dashboards focused on financial and operational analysis.
+This repository showcases business analytics projects focused on financial and operational decision-making using data.
 
-## Contents
-- Power BI dashboards
-- KPI definitions
-- Data models and measures (DAX)
-- Business-oriented analysis
+## Project Focus
+- Financial performance analysis
+- KPI definition and monitoring
+- Business-oriented dashboards
+- Data-driven decision support
 
-## Tools
+## Tools & Technologies
 - Power BI
 - SQL
 - Excel
 
+## Repository Structure
+- `/dashboards` – Power BI dashboard files
+- `/data` – Sample and dummy datasets
+- `/documentation` – KPI definitions, data models and explanations
+- `/screenshots` – Dashboard previews
+
 ## About
-Created by Jin Otsubo – Data Analyst / BI.
+Created by Jin Otsubo  
+Data Analyst / Business Intelligence
